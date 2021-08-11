@@ -4,10 +4,10 @@
 
     1º Projeto: "Finans"
 
-    Desktop:
- ![1](https://user-images.githubusercontent.com/83739628/128583584-b3060a73-28dd-49ff-99ad-89e99aca30c0.png)
-    Phone:
- ![4](https://user-images.githubusercontent.com/83739628/128583617-d72524ea-7801-44d7-bc90-6845e148c8d0.png)
+![127 0 0 1_5500_1%C2%BA%20Projeto%20-%20Finans_index html](https://user-images.githubusercontent.com/83739628/128955650-a1d5dabd-8272-46f9-8e68-54b37a421329.png)
 
-2º Projeto: "Spotify clone"
+    2º Projeto: "Spotify clone"
+
+![screencapture-127-0-0-1-5500-2-Projeto-Spotify-index-html-2021-08-10-22_40_33](https://user-images.githubusercontent.com/83739628/128957100-3140a231-d257-4219-94ab-a7a42d93918b.png)
+
     
