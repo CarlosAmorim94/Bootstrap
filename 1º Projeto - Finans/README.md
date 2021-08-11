@@ -11,4 +11,4 @@ Os exemplos desse repositório foram feitos conforme desafios do curso "Desenvol
 
 # Exibição em celulares:
 
-![127 0 0 1_5500_1%C2%BA%20Projeto%20-%20Finans_index html(iPhone 6_7_8 Plus)](https://user-images.githubusercontent.com/83739628/128955667-604b6c9a-041a-4755-aea5-bf87fae82ca1.png)
+<img src="https://user-images.githubusercontent.com/83739628/128955667-604b6c9a-041a-4755-aea5-bf87fae82ca1.png" alt="HTML" width="500" height="auto">
